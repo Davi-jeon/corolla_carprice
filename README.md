@@ -10,7 +10,7 @@ test, train
 train row 1,019
 
 # Process
-EDA & Preprocess
-Variables Selction
-Model Selection
-Submission
+- EDA & Preprocess
+- Variables Selction
+- Model Selection
+- Submission
